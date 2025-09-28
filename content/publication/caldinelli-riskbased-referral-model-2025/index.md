@@ -5,12 +5,11 @@ authors:
 - Anne-Laure Faucon
 - Arvid Sjölander
 - Roosa Lankinen
-- Antoine Creon
+- admin
 - Edouard L Fu
 - Marie Evans
 - Juan Jesus Carrero
-date: '2025-07-01'
-publishDate: '2025-09-28T10:02:58.250143Z'
+date: 2025-07-01
 publication_types:
 - article-journal
 publication: '*Nephrology Dialysis Transplantation*'
