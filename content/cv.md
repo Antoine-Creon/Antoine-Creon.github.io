@@ -16,20 +16,20 @@ sections:
       date_format: '2006'
       is_education_first: true
 
-#  - block: resume-skills
-#    content:
-#      title: Skills
-#      username: admin
-#    design:
-#      show_skill_percentage: false
+  - block: resume-skills
+    content:
+      title: Skills
+      username: admin
+    design:
+      show_skill_percentage: true
 
 #  - block: resume-awards
 #    content:
 #      title: Awards
 #      username: admin
 
-#  - block: resume-languages
-#    content:
-#      title: Languages
-#      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
