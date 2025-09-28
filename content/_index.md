@@ -11,22 +11,24 @@ design:
 sections:
   - block: resume-biography-3
     content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "I am Antoine Créon, a physician and data scientist focused on kidney diseases. I combine clinical expertise and research to advance patient care and scientific knowledge."
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      # button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
-      layout: split
-      split:
-        image_side: left
-        text_side: right
       background:
-        color: "#000000"        # fallback color for small screens
+        color: black
         image:
+          # Add your image background to `assets/media/`.
           filename: swedish_landscape.jpg
           filters:
-            brightness: 0.6      # dark overlay effect
+            brightness: 0.6
           size: cover
-          position: left center
+          position: center
           parallax: true
   #- block: markdown
   #  content:
