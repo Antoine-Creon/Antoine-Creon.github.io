@@ -14,7 +14,7 @@ status:
   icon: 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -54,22 +54,22 @@ interests:
 education:
   - area: Ph.D. in Epidemiology and Biostatistics
     institution: Karolinska Institutet
-    date_start: 2024-10-14
-    date_end: 2028-09-30
+    date_start: 2024
+    date_end: 2028
     summary: |
       * Pharmaco-epidemiology of kidney diseases
       * Supervisors: Juan J. Carrero, Edouard L. Fu, Arvid Sjölander, Anne-Laure Faucon
   - area: M.S. Healthcare Data Science
     institution: Sorbonne University
-    date_start: 2023-09-05
-    date_end: 2024-07-15
+    date_start: 2023
+    date_end: 2024
     summary: |
       * Relationship between plasma alpha-1-antitrypsin and CKD progression in the CKD-REIN cohort study
       * Supervisors: Ziad Massy, Natalia Alencar De Pinho
   - area: M.S. in Human Genetics
-    institution: Sorbonne University
-    date_start: 2013-09-05
-    date_end: 2014-07-15
+    institution: Paris Cité University
+    date_start: 2013
+    date_end: 2014
     summary: |
       * Impact of autocrine and paracrine prolactin secretion on pancreatic beta-cell proliferation in rats
       * Supervisors: Susan Bonner-Weir
