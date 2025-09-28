@@ -11,7 +11,6 @@ sections:
   - block: resume-experience
     content:
       title: "Scientific Education"
-      username: ""
       items:
         - title: "Ph.D. in Epidemiology and Biostatistics"
           icon: hero/academic-cap
@@ -46,17 +45,14 @@ sections:
   - block: resume-skills
     content:
       title: Skills
-      username: ""
     design:
       show_skill_percentage: yes
 
   - block: resume-awards
     content:
       title: Awards
-      username: ""
 
   - block: resume-languages
     content:
       title: Languages
-      username: ""
 ---
