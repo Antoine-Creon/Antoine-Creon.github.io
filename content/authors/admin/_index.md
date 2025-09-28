@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antoine Créon, MD
+title: Antoine Créon
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Nephrologist - PhD Student in Epidemiology and Biostatistics
+role: MD - Nephrologist and PhD Student in Epidemiology and Biostatistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antoine Créon, MD
+title: Antoine Créon
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Antoine
 last_name: Créon
 
 # Status emoji
-status:
+status: 
   icon: 
 
 # Is this the primary user of the site?
