@@ -11,6 +11,7 @@ sections:
   - block: resume-experience
     content:
       title: "Scientific Education"
+      username: ""
       items:
         - title: "Ph.D. in Epidemiology and Biostatistics"
           icon: hero/academic-cap
