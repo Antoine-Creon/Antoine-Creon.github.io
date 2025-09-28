@@ -4,7 +4,6 @@ authors:
 - Carole Burger
 - admin
 - Alexandre Karras
-date: "2022-11-01T00:00:00Z"
 publication_types:
 - article-journal
 publication: '*Joint Bone Spine*'
