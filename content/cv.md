@@ -9,7 +9,6 @@ design:
 # Page sections
 sections:
   - block: resume-experience
-    id: education-scientific
     content:
       title: "Scientific Education"
       items:

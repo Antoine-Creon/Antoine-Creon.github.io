@@ -51,23 +51,23 @@ interests:
   - Causal inference, personalized treatment strategies
   - Comparative effectiveness research
 
-education:
-  - area: Ph.D. in Epidemiology and Biostatistics
-    institution: Karolinska Institutet
-    date_start: 2024-10-14
-    date_end: 2028-09-30
-  - area: M.S. Healthcare Data Science
-    institution: Sorbonne University
-    date_start: 2023-09-05
-    date_end: 2024-07-15
-  - area: Specialty Degree in Nephrology
-    institution: Paris Cite University
-    date_start: 2021-11-02
-    date_end: 2022-11-02
-  - area: Medical Doctor
-    institution: Paris Cite University
-    date_start: 2010-09-05
-    date_end: 2021-11-02
+#education:
+#  - area: Ph.D. in Epidemiology and Biostatistics
+#    institution: Karolinska Institutet
+#    date_start: 2024-10-14
+#    date_end: 2028-09-30
+#  - area: M.S. Healthcare Data Science
+#    institution: Sorbonne University
+#    date_start: 2023-09-05
+#    date_end: 2024-07-15
+#  - area: Specialty Degree in Nephrology
+#    institution: Paris Cite University
+#    date_start: 2021-11-02
+#    date_end: 2022-11-02
+#  - area: Medical Doctor
+#    institution: Paris Cite University
+#   date_start: 2010-09-05
+#    date_end: 2021-11-02
 
 ## Add Boston n1 ; These Dany, CESP
 
