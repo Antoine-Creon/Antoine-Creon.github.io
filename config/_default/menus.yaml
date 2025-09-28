@@ -8,11 +8,11 @@ main:
     url: /
     weight: 10
   - name: CV
-    url: /
+    url: cv/
     weight: 11
   - name: Publications
     url: /
     weight: 12
   - name: Patients
     url: /
-    weight: 12
+    weight: 13
