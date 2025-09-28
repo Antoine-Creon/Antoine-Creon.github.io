@@ -10,7 +10,6 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: Scientific Education
       # The user's folder name in `content/authors/`
       username: admin-extended
     design:
