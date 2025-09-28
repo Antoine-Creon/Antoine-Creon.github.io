@@ -56,21 +56,21 @@ education:
     institution: Karolinska Institutet
     date_start: 2024-10-14
     date_end: 2028-09-30
-    description: |
+    summary: |
       * Pharmaco-epidemiology of kidney diseases
       * Supervisors: Juan J. Carrero, Edouard L. Fu, Arvid Sjölander, Anne-Laure Faucon
   - area: M.S. Healthcare Data Science
     institution: Sorbonne University
     date_start: 2023-09-05
     date_end: 2024-07-15
-    description: |
+    summary: |
       * Relationship between plasma alpha-1-antitrypsin and CKD progression in the CKD-REIN cohort study
       * Supervisors: Ziad Massy, Natalia Alencar De Pinho
   - area: M.S. in Human Genetics
     institution: Sorbonne University
     date_start: 2013-09-05
     date_end: 2014-07-15
-    description: |
+    summary: |
       * Impact of autocrine and paracrine prolactin secretion on pancreatic beta-cell proliferation in rats
       * Supervisors: Susan Bonner-Weir
   - area: Specialty Degree in Nephrology
@@ -81,7 +81,7 @@ education:
     institution: Paris Cite University
     date_start: 2010-09-05
     date_end: 2021-11-02
-    
+
 ## Add Boston n1 ; These Dany, CESP
 
 work:
