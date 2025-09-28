@@ -55,7 +55,6 @@ sections:
     id: recent-papers
     content:
       title: Recent Publications
-      text: ""
       filters:
         folders:
           - publication
