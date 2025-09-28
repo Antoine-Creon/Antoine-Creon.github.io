@@ -9,11 +9,11 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    content:
+    title: Scientific Education
     username: admin-extended
-  
     design:
       columns: "1"
-
 
   - block: resume-skills
     content:
