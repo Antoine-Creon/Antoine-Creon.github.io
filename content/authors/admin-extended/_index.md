@@ -74,11 +74,11 @@ education:
       * Impact of autocrine and paracrine prolactin secretion on pancreatic beta-cell proliferation in rats
       * Supervisors: Susan Bonner-Weir
   - area: Specialty Degree in Nephrology
-    institution: Paris Cite University
+    institution: Paris Cité University
     date_start: 2021-11-02
     date_end: 2022-11-02
   - area: Medical Doctor
-    institution: Paris Cite University
+    institution: Paris Cité University
     date_start: 2010-09-05
     date_end: 2021-11-02
 
