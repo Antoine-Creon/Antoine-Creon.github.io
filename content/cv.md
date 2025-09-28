@@ -46,17 +46,17 @@ sections:
   - block: resume-skills
     content:
       title: Skills
-      username: admin
+      username: ""
     design:
-      show_skill_percentage: false
+      show_skill_percentage: yes
 
   - block: resume-awards
     content:
       title: Awards
-      username: admin
+      username: ""
 
   - block: resume-languages
     content:
       title: Languages
-      username: admin
+      username: ""
 ---
