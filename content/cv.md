@@ -10,25 +10,28 @@ design:
 sections:
   - block: resume-experience
     content:
-    title: Scientific Education
-    username: admin-extended
+      # The user's folder name in `content/authors/`
+      username: admin-extended
     design:
-      columns: "1"
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 
-  - block: resume-skills
-    content:
-      title: Skills
-      username: admin
-    design:
-      show_skill_percentage: false
+#  - block: resume-skills
+#    content:
+#      title: Skills
+#      username: admin
+#    design:
+#      show_skill_percentage: false
 
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+#  - block: resume-awards
+#    content:
+#      title: Awards
+#      username: admin
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+#  - block: resume-languages
+#    content:
+#      title: Languages
+#      username: admin
 ---
