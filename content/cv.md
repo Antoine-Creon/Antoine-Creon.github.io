@@ -9,6 +9,7 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    enable: false
     content:
       title: "Scientific Education"
       items:
@@ -43,16 +44,32 @@ sections:
       columns: "1"
 
   - block: resume-skills
+    enable: false
     content:
       title: Skills
+      items:
+      - name: R
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Quarto
+        description: ''
+        percent: 90
+        icon: chart-bar
+      - name: Shiny
+        description: ''
+        percent: 50
+        icon: circle-stack
     design:
       show_skill_percentage: yes
 
   - block: resume-awards
+    enable: false
     content:
       title: Awards
 
   - block: resume-languages
+    enable: false
     content:
       title: Languages
 ---
