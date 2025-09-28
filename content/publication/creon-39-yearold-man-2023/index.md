@@ -2,7 +2,7 @@
 title: A 39 year-old man with acroparesthesia and uncommon renal arterial lesions.
   What is the diagnosis?
 authors:
-- Antoine Creon
+- admin
 - Elsa Ferriere
 - Marion Rabant
 - Jean-Paul Duong Van Huyen
