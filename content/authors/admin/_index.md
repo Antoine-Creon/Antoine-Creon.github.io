@@ -6,7 +6,7 @@ title: Antoine Créon, MD
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Antoine 
+first_name: Antoine
 last_name: Créon
 
 # Status emoji
