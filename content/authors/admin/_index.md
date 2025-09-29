@@ -65,48 +65,6 @@ education:
     date_start: 2010-09-05
     date_end: 2022-11-02
 
-## Add Boston n1 ; These Dany, CESP
-
-work:
-  - position: Nephrology Fellowship
-    company_name: Assistance Publique des Hopitaux de Paris
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-11-02
-    date_end: 2022-11-02
-  - position: Residency in Nephrology
-    company_name: Assistance Publique des Hopitaux de Paris
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-11-02
-    date_end: 2021-11-02
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: R
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Quarto
-        description: ''
-        percent: 90
-        icon: chart-bar
-      - name: Shiny
-        description: ''
-        percent: 50
-        icon: circle-stack
-
-languages:
-  - name: French
-    percent: 100
-  - name: English
-    percent: 90
-  - name: Swedish
-    percent: 10
-
 ---
 
 ## Summary

@@ -14,7 +14,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
+      #button:
       #  text: Download CV
       #  url: uploads/resume.pdf
     design:
@@ -36,7 +36,7 @@ sections:
       title: Selected Publications And Projects
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -48,11 +48,11 @@ sections:
       title: Recent Publications
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation
-      
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

@@ -102,10 +102,13 @@ work:
     date_start: 2017-11-02
     date_end: 2021-11-02
 
+
+# Grant and awards
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - name: R
         description: ''
@@ -129,7 +132,3 @@ languages:
     percent: 10
 
 ---
-
-## Professional Summary
-
-I am a  nephrologist and PhD student in biostatistics and epidemiology at Karolinska Institutet, Stockholm. I work in the **[Carrero Group](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/cardio-renal-epidemiology-juan-jesus-carreros-research-group)** under the supervision of **[Prof. Juan J. Carrero](https://ki.se/en/people/juan-jesus-carrero)**, **[Dr. Edouard L. Fu](https://edouard-fu.github.io/)** (from **[Leiden University Medical Center](https://www.lumc.nl/en/)**), **[Prof. Arvid Sjölander](https://ki.se/en/people/arvid-sjolander#about-me)** and **[Dr. Anne-Laure Faucon](https://ki.se/en/people/annelaure-faucon)**. My work involves large-scale register and laboratory data as well as causal inference methods.

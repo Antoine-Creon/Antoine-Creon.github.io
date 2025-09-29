@@ -11,8 +11,8 @@ main:
     url: cv/
     weight: 11
   - name: Publications
-    url: publication/
+    url: publications/
     weight: 12
   - name: Patients
-    url: /
+    url: patients/
     weight: 13

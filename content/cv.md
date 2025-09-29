@@ -18,8 +18,7 @@ sections:
 
   - block: resume-skills
     content:
-      title: Skills
-      username: admin
+      username: admin-extended
     design:
       show_skill_percentage: true
 
@@ -30,6 +29,5 @@ sections:
 
   - block: resume-languages
     content:
-      title: Languages
-      username: admin
+      username: admin-extended
 ---
