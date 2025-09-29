@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Personal website of Antoine Créon, physician–scientist in nephrology and epidemiology.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'google-site-verification=888qVsp4LTulUHKksOWwLA8v2n_VV1bmQqiAS2Lz5G8'
     baidu: ''
 
 # Site header
