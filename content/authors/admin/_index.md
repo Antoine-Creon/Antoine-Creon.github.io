@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:antoine.creon@ki.se'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/Nino-Creon
+    url: https://github.com/Antoine-Creon
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-6498-0257
   - icon: academicons/google-scholar
