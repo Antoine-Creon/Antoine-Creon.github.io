@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Personal website of Antoine Créon, physician–scientist in nephrology and epidemiology.'
-    twitter: 'GetResearchDev'
+    org_name: 'Antoine Créon'
+    description: 'Personal website of Antoine Créon, physician–scientist interested in nephrology, epidemiology and causal inference.'
+    twitter: '@AntoineCreon'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -25,6 +25,8 @@ marketing:
   verification:
     google: 'google-site-verification=888qVsp4LTulUHKksOWwLA8v2n_VV1bmQqiAS2Lz5G8'
     baidu: ''
+    bing: ""
+
 
 # Site header
 header:
