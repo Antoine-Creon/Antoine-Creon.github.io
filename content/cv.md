@@ -30,5 +30,6 @@ sections:
 
   - block: resume-languages
     content:
+      title: Languages
       username: admin-extended
 ---

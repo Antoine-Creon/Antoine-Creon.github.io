@@ -12,20 +12,16 @@
   </div>
   {{ end }}
   {{ end }}
-
-  {{ if not (in (slice "talk" "page") $page.Type) }}
+  
+{{ if not (in (slice "talk" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
-    {{ if eq $page.Type "publication" }}
-      {{ $date = time.Format (site.Params.publications.date_format | default "January, 2006") $page.Date }}
-    {{ else }}
-      {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}
-      {{ end }}
+    {{ if ne $page.Params.Lastmod $page.Params.Date }}
+        {{ i18n "last_updated" }}
     {{ end }}
     {{ $date }}
   </span>
-  {{ end }}
+{{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
