@@ -9,9 +9,9 @@ links:
     icon: brands/x
     enable: true
   - id: bluesky
-    url: 'https://bsky.app/intent/compose?text={title}&url={url}'
+    url: 'https://bsky.app/intent/compose?text={title}%20{url}'
     title: BlueSky
-    icon: fab/bluesky
+    icon: brands/bluesky
     enable: true
   - id: linkedin
     url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
