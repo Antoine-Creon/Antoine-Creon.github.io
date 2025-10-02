@@ -5,6 +5,7 @@ authors:
 - admin
 - Alexandre Karras
 date: '2022-01-01T00:00:00Z'
+reading_time: false
 publication_types:
 - article-journal
 publication: '*Joint Bone Spine*'

@@ -17,6 +17,7 @@ authors:
 - Fabien Le Bras
 - Slim Fourati
 date: '2024-05-01'
+reading_time: false
 publishDate: '2025-09-28T10:02:58.224035Z'
 publication_types:
 - article-journal

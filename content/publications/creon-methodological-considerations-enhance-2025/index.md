@@ -6,6 +6,7 @@ authors:
 - Juan-Jesus Carrero
 - Edouard L. Fu
 date: '2025-02-01'
+reading_time: false
 featured: true
 publishDate: '2025-09-28T10:02:58.231121Z'
 publication_types:

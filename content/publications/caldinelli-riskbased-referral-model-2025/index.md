@@ -10,6 +10,7 @@ authors:
 - Marie Evans
 - Juan-Jesus Carrero
 date: 2025-07-01
+reading_time: false
 publication_types:
 - article-journal
 publication: '*Nephrology Dialysis Transplantation*'

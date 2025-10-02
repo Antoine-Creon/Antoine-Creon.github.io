@@ -16,6 +16,7 @@ authors:
 - Juan-Jesus Carrero
 date: '2025-08-01'
 publishDate: '2025-09-28T10:02:58.264596Z'
+reading_time: false
 featured: true
 publication_types:
 - article-journal

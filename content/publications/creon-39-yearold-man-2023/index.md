@@ -8,6 +8,7 @@ authors:
 - Jean-Paul Duong Van Huyen
 - Pierre Isnard
 date: '2023-02-01'
+reading_time: false
 publishDate: '2025-09-28T10:02:58.231121Z'
 publication_types:
 - article-journal

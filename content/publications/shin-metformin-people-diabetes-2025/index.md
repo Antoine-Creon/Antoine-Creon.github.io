@@ -6,6 +6,7 @@ authors:
 - Juan-Jesus Carrero
 date: '2025-02-01'
 publishDate: '2025-09-28T10:02:58.258420Z'
+reading_time: false
 publication_types:
 - article-journal
 publication: '*American Journal of Kidney Diseases*'
