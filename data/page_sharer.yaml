@@ -11,7 +11,7 @@ links:
   - id: bluesky
     url: 'https://bsky.app/intent/compose?text={title}'
     title: BlueSky
-    icon: brands/Bluesky
+    icon: fab/bluesky
     enable: true
   - id: linkedin
     url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
