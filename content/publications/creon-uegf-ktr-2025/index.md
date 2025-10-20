@@ -13,7 +13,7 @@ date: 2025-10-20
 reading_time: false
 publication_types:
 - article-journal
-publication: '*Transplantation International*'
+publication: '*Transplant International*'
 links:
 - name: DOI
   url: https://doi.org/10.3389/ti.2025.15061
