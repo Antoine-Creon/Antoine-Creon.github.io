@@ -17,6 +17,13 @@ publication: '*Transplant International*'
 links:
 - name: DOI
   url: https://doi.org/10.3389/ti.2025.15061
+
+abstract: |
+  test
+
+  test
+
+  test
 ---
 
 ### Abstract
