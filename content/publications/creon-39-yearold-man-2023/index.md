@@ -12,7 +12,7 @@ reading_time: false
 publishDate: '2025-09-28T10:02:58.231121Z'
 publication_types:
 - article-journal
-publication: '*J Nephrol*'
+publication: '*Journal of Nephrology*'
 links:
 - name: DOI
   url: https://doi.org/10.1007/s40620-022-01277-1
