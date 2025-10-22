@@ -14,5 +14,5 @@ publication: '*American Journal of Kidney Diseases*'
 links:
 - name: DOI
   url: https://doi.org/10.1053/j.ajkd.2025.05.002
-summary: "We discuss the causes of discrepancies in GFR estimates based on creatinine, cystatin C, or both"
+summary: "We discuss the causes of discrepancies in GFR estimates based on creatinine, cystatin C, or both."
 ---
