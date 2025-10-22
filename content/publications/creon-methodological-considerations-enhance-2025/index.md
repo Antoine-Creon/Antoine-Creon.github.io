@@ -15,4 +15,5 @@ publication: '*Journal of the American Society of Nephrology*'
 links:
 - name: DOI
   url: https://doi.org/10.1681/ASN.0000000660
+summary: "A clinician-focused commentary on target trial design, using a JASN paper as an example."
 ---

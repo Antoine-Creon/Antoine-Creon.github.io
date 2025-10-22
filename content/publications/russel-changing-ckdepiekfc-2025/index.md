@@ -24,6 +24,7 @@ publication: '*Nephrology, Dialysis, Transplantation*'
 links:
 - name: DOI
   url: https://doi.org/10.1093/ndt/gfaf148
+summary: "Switching to the EKFC equation modestly lowers eGFR, increases CKD prevalence, and affects clinical decisions without consistently changing outcome risk."
 abstract: |
   **Background**
 
