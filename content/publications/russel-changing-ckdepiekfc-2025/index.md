@@ -24,7 +24,7 @@ publication: '*Nephrology, Dialysis, Transplantation*'
 links:
 - name: DOI
   url: https://doi.org/10.1093/ndt/gfaf148
-summary: "We explored the impact of switching to the EKFC equation (CKD prevalence, clinical decisions, major outcome risks)."
+summary: "We explored the impact of switching to the EKFC equation in terms of CKD prevalence, clinical decisions and outcome risks."
 abstract: |
   **Background**
 
