@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:antoine.creon@ki.se'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/antoine-creon/
   - icon: brands/github
     url: https://github.com/Antoine-Creon
   - icon: academicons/orcid
