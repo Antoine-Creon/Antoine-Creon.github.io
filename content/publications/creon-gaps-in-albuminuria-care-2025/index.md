@@ -16,6 +16,7 @@ featured: true
 publication_types:
 - article-journal
 publication: '*American Journal of Kidney Diseases*'
+summary: "A population-based cohort study investigating clinical responses following albuminuria detection."
 links:
 - name: DOI
   url: https://doi.org/10.1053/j.ajkd.2025.09.020
