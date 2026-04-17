@@ -1,8 +1,6 @@
 ---
 title: Medications Influencing Serum Cystatin C Independent of Measured Glomerular Filtration Rate
 authors:
-  author = {Russel, William A. and Engberink, Rik Olde and Créon, Antoine and Caldinelli, Aurora and Faucon, Anne-Laure and Grams, Morgan E. and Fu, Edouard L. and Inker, Lesley A. and Levey, Andrew S. and Carrero, Juan Jesus},
-
 - William A. Russel
 - Rik Olde Engberink
 - admin
