@@ -14,7 +14,7 @@ authors:
 - Andrew S. Levey
 - Juan-Jesus Carrero
 date: '2026-04-17'
-publishDate: '2026-04-17T10:02:58.264596Z'
+publishDate: '2026-04-17'
 reading_time: false
 featured: false
 publication_types:
@@ -40,6 +40,5 @@ abstract: |
   **Conclusion**
 
   This study suggests that systemic glucocorticoids, opioids and loop diuretics may increase cystatin C independent of mGFR. Use of eGFRcr-cys was consistently more accurate than either eGFRcr or eGFRcys alone in patients using these treatments.
-
 ---
 
