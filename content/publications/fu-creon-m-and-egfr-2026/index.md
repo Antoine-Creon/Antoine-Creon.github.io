@@ -1,8 +1,8 @@
 ---
 title: Measured and Estimated Glomerular Filtration Rates and Risk of Adverse Health Outcomes
 authors:
-- Edouard L. Fu *
-- admin *
+- Edouard L. Fu
+- admin
 - Morgan E. Grams
 - Josef Coresh
 - Arvid Sjölander
