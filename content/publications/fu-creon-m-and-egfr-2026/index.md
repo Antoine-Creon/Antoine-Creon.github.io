@@ -1,8 +1,8 @@
 ---
 title: Measured and Estimated Glomerular Filtration Rates and Risk of Adverse Health Outcomes
 authors:
-- Edouard L. Fu
-- admin
+- Edouard L. Fu *
+- admin *
 - Morgan E. Grams
 - Josef Coresh
 - Arvid Sjölander
@@ -19,7 +19,7 @@ reading_time: false
 featured: true
 publication_types:
 - article-journal
-publication: '*JAMA*'
+publication: '*JAMA*. Edouard L. Fu and Antoine Créon contributed equally as co-first authors.'
 summary: "A comparison of how measured and estimated GFR are associated with health outcomes (co-first author)."
 links:
 - name: DOI
