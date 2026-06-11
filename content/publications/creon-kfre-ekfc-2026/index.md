@@ -3,20 +3,20 @@ title: Similar Predictive Performance and Clinical Utility of the Kidney Failure
 authors:
 - admin
 - Malou Magnani
-- Carolien CHM Maas
+- Carolien CHM. Maas
 - Merel Van Diepen
 - Aurora Caldinelli
-- William A Russel
-- Friedo W Dekker
+- William A. Russel
+- Friedo W. Dekker
 - Juan-Jesus Carrero
-- Edouard L Fu
+- Edouard L. Fu
 
 date: '2026-06-08'
 reading_time: false
 featured: true
 publication_types:
 - article-journal
-publication: '*Clinical Kidney Journal*'
+publication: '*Clinical Kidney Journal*. Antoine Créon and Malou Magnani contributed equally as co-first authors.'
 summary: "An assessment of the predictive performance and clinical utility of the Kidney Failure Risk Equation using EKFC eGFR equations."
 links:
 - name: URL
