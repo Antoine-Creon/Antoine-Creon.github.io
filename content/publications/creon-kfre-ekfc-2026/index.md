@@ -24,7 +24,7 @@ links:
 abstract: |
   **Background** 
   
-  International guidelines recommend the Kidney Failure Risk EquaƟon (KFRE), which includes estimated glomerular filtration rate (eGFR), to guide nephrology referral and preparation for kidney replacement therapy in chronic kidney disease (CKD). The European Kidney FuncƟon Consortium (EKFC) eGFR equations are increasingly recognized as alternatives to CKD-EPI, but their impact on KFRE predictive performance and clinical utility is unknown.
+  International guidelines recommend the Kidney Failure Risk Equation (KFRE), which includes estimated glomerular filtration rate (eGFR), to guide nephrology referral and preparation for kidney replacement therapy in chronic kidney disease (CKD). The European Kidney Function Consortium (EKFC) eGFR equations are increasingly recognized as alternatives to CKD-EPI, but their impact on KFRE predictive performance and clinical utility is unknown. 
 
   **Methods** 
 
