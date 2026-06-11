@@ -22,7 +22,7 @@ publication_types:
 publication: '*JAMA*. Edouard L. Fu and Antoine Créon contributed equally as co-first authors.'
 summary: "A comparison of how measured and estimated GFR are associated with health outcomes (co-first author)."
 links:
-- name: DOI
+- name: URL
   url: https://jamanetwork.com/journals/jama/fullarticle/2850099
 abstract: |
   **Importance** 
