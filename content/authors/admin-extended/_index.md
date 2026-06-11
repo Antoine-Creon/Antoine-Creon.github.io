@@ -87,8 +87,8 @@ work:
     company_name: Various Nephrology Clinics, France
     company_url: ''
     company_logo: ''
-    date_start: 2021-11-02
-    date_end: 2022-11-02
+    date_start: 2022-11-02
+    date_end: 2024-10-14
   - position: Nephrology Fellowship
     company_name: Assistance Publique des Hopitaux de Paris
     company_url: ''
