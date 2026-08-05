@@ -54,4 +54,4 @@ abstract: |
   Among adults in Sweden, mGFR values of 60 mL/min/1.73 m2 were associated with higher rates of all-cause mortality and kidney failure compared with mGFR values of 90 mL/min/1.73 m2, supporting the current GFR threshold of 60 mL/min/1.73 m2 to define chronic kidney disease. Associations of mGFR with mortality were most closely represented by the association of eGFRcr-cys with mortality, whereas eGFRcr underestimated and eGFRcys overestimated mortality risk.
 ---
 
-This article was featured in a [NephJC article](https://www.nephjc.com/news/2026/short/measuredgfr).
+This article was the subject of a [JAMA editorial](https://jamanetwork.com/journals/jama/fullarticle/2850101) and was featured in a [NephJC article](https://www.nephjc.com/news/2026/short/measuredgfr).
